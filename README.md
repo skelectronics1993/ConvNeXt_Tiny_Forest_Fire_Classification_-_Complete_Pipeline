@@ -1,0 +1,1 @@
+# ConvNeXt_Tiny_Forest_Fire_Classification_-_Complete_Pipeline
